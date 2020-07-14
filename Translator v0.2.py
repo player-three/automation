@@ -9,6 +9,8 @@ Description: translates mandarin text to english using Google Translate,
 displays english translation, pinyin, and also translations for each
 individual input character.
 
+Note: Requires googletrans library. (pip install googletrans)
+
 Usage: run program as function input
 Syntax: trans("TEXT TO BE TRANSLATED")
 
